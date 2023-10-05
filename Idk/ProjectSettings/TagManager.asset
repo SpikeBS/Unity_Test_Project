@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - NPC
+  - DeathZone
+  - Enemy
+  - Inventory_Object
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Platform
+  - Player
+  - DeathLayer
+  - CamConfiner
+  - NPC
+  - MovingPlatform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2077544549
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: canvas
+    uniqueID: 3986997239
+    locked: 0
+  - name: Inventory_object
+    uniqueID: 1258154423
+    locked: 0
+  - name: InventoryIcon
+    uniqueID: 429935825
+    locked: 0
